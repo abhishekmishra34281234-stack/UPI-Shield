@@ -1,0 +1,10 @@
+app.py
+├── detector.py
+├── requirements.txt
+│
+├── templates/
+│   └── index.html
+│
+└── static/
+    ├── style.css
+    └── script.js
